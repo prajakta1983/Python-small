@@ -1,3 +1,4 @@
+# Acronym Generator
 user_input=str(input("Enter a word:"))
 text=user_input.split()
 a=""
